@@ -29,6 +29,7 @@ experience:
     location: Madrid, ES
     date_start: '2017-03-01'
     date_end: '2021-10-01'
+    weight: 2
     description: |2-
         Responsibilities include:
         
@@ -43,6 +44,7 @@ experience:
     location: Berkeley, US
     date_start: '2019-08-01'
     date_end: '2019-10-31'
+    weight: 1
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
