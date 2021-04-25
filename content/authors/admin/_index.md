@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate at Instituto de Física Teórica. I am interested in using machine learning tools to study fundamental particle physics.
+I am a PhD candidate at {{< staticref "https://www.ift.uam-csic.es/" "newtab" >}}Instituto de Física Teórica{{< /staticref >}}. I am interested in using machine learning tools to study fundamental particle physics.
 
 My research focuses on developing new data-driven techniques to find anomalous signals at the Large Hadron Collider. I have experience building mathematical models to explain particle physics phenomena and exploring the experimental signatures they would produce.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.ift.uam-csic.es/" "newtab" >}}resumé{{< /staticref >}}.
