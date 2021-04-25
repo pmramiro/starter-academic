@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: IFT_logo
+    company_logo: IFT_logo_2
     location: California
     date_start: '2021-01-01'
     date_end: ''
