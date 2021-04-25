@@ -26,7 +26,7 @@ experience:
     company: Instituto de Física Teórica
     company_url: ''
     company_logo: IFT_logo
-    location: Madrid
+    location: Madrid, ES
     date_start: '2017-03-01'
     date_end: '2021-10-01'
     description: |2-
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Affiliate
+    company: Lawrence Berkeley National Laboratory
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: LBL_logo
+    location: Berkeley, US
+    date_start: '2019-08-01'
+    date_end: '2019-10-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
