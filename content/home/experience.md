@@ -44,6 +44,15 @@ experience:
     date_start: '2019-08-01'
     date_end: '2019-10-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Research Affiliate
+    company: Institute for Particle Physics Phenomenology
+    company_url: ''
+    company_logo: IPPP_logo
+    location: Durham, UK
+    date_start: '2016-01-01'
+    date_end: '2016-10-1'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
