@@ -51,7 +51,7 @@ experience:
     company_logo: IPPP_logo
     location: Durham, UK
     date_start: '2016-01-01'
-    date_end: '2016-10-1'
+    date_end: '2016-10-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
