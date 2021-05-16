@@ -70,7 +70,7 @@ experience:
     location: Zeuthen, DE
     date_start: '2014-09-01'
     date_end: '2015-07-01'
-    description: 
+    description: |2-
         * Analysing
         * Modelling
         * Deploying
