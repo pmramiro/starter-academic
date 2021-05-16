@@ -70,12 +70,15 @@ experience:
     location: Zeuthen, DE
     date_start: '2014-09-01'
     date_end: '2015-07-01'
-    description: u
+    description: 
+        * Analysing
+        * Modelling
+        * Deploying
     
   - title: BSc in Physics
     company: Universidad Complutense de Madrid
     company_url: ''
-    company_logo: DESY_logo
+    company_logo: UCM_logo
     location: Madrid, ES
     date_start: '2010-09-01'
     date_end: '2014-06-30'
