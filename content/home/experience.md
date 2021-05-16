@@ -62,6 +62,15 @@ experience:
     date_start: '2015-10-01'
     date_end: '2016-10-01'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Graduate Research Assistant
+    company: Neumann Institute for Computing, DESY
+    company_url: ''
+    company_logo: DESY_logo
+    location: Zeuthen, DE
+    date_start: '2014-09-01'
+    date_end: '2015-07-01'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
