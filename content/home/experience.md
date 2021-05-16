@@ -61,7 +61,7 @@ experience:
     location: Durham, UK
     date_start: '2015-10-01'
     date_end: '2016-10-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Graduated with Distinction
     
   - title: Graduate Research Assistant
     company: Neumann Institute for Computing, DESY
@@ -70,7 +70,18 @@ experience:
     location: Zeuthen, DE
     date_start: '2014-09-01'
     date_end: '2015-07-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:
+        * Analysing
+        * Modelling
+        * Deploying
+    
+  - title: BSc in Physics
+    company: Universidad Complutense de Madrid
+    company_url: ''
+    company_logo: UCM_logo
+    location: Madrid, ES
+    date_start: '2010-09-01'
+    date_end: '2014-06-31'
 
 design:
   columns: '2'
