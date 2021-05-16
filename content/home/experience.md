@@ -53,6 +53,15 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-10-01'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: MSc in Theoretical Physics
+    company: Durham University
+    company_url: ''
+    company_logo: Durham_logo
+    location: Durham, UK
+    date_start: '2015-10-01'
+    date_end: '2016-10-01'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
