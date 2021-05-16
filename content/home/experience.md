@@ -78,7 +78,7 @@ experience:
   - title: BSc in Physics
     company: Universidad Complutense de Madrid
     company_url: ''
-    company_logo: UCM_logo
+    company_logo: DESY_logo
     location: Madrid, ES
     date_start: '2010-09-01'
     date_end: '2014-06-30'
