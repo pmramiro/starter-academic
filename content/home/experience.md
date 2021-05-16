@@ -78,7 +78,7 @@ experience:
     company_logo: DESY_logo
     location: Madrid, ES
     date_start: '2010-09-01'
-    date_end: '2014-06-31'
+    date_end: '2014-06-30'
     description: u
 
 design:
