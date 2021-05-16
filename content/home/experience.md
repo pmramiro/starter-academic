@@ -71,14 +71,6 @@ experience:
     date_start: '2014-09-01'
     date_end: '2015-07-01'
     description: u
-    
-  - title: BSc in Physics
-    company: Universidad Complutense de Madrid
-    company_url: ''
-    company_logo: DESY_logo
-    location: Madrid, ES
-    date_start: '2010-09-01'
-    date_end: '2014-06-31'
 
 design:
   columns: '2'
