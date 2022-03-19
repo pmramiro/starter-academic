@@ -6,11 +6,11 @@ title: Pablo Martín Ramiro
 superuser: true
 
 # Role/position/tagline
-role: PhD in Physics \n AI and Quantum researcher
+role: PhD in Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Multiverse Computing
+- name: AI and Quantum researcher <br> Multiverse Computing
   # url: https://www.ift.uam-csic.es/
 
 # Short bio (displayed in user profile at end of posts)
