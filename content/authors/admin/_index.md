@@ -6,11 +6,11 @@ title: Pablo Martín Ramiro
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Physics
+role: PhD in Physics \n AI and Quantum researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Instituto de Física Teórica
+- name: Multiverse Computing
   # url: https://www.ift.uam-csic.es/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate in Physics
+  - course: PhD in Physics
     institution: Instituto de Física Teórica IFT-UAM/CSIC
     # year: 2017
   - course: MSc in Theoretical Physics
